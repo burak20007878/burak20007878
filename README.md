@@ -1,4 +1,4 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=burak20007878&label=Profile%20views&color=0e75b6&style=flat" alt="burak20007878" /> <a href="https://twitter.com/burak20007878" target="blank"><img src="https://img.shields.io/twitter/follow/burak20007878?logo=twitter&style=for-the-badge" alt="burak20007878" /></a> </p>
+<p align="left"> <a href="https://twitter.com/burak20007878" target="blank"><img src="https://img.shields.io/twitter/follow/burak20007878?logo=twitter&style=for-the-badge" alt="burak20007878" /></a> <br> <img src="https://komarev.com/ghpvc/?username=burak20007878&label=Profile%20views&color=0e75b6&style=flat" alt="burak20007878" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
