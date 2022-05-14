@@ -5,7 +5,7 @@
 <a href="https://twitter.com/burak20007878" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="burak20007878" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/burak20007878" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="burak-ismail-işik-79896a1b8" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/ucfk2gb4rh9typzjwmac165q" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ucfk2gb4rh9typzjwmac165q" height="30" width="40" /></a>
-  <a href="https://steamcommunity.com/id/burak20007878" target="blank"><img align="center" src="https://commons.wikimedia.org/wiki/File:Steam_icon_logo.svg" alt="ucfk2gb4rh9typzjwmac165q" height="30" width="40" /></a>
+  <a href="https://steamcommunity.com/id/burak20007878" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/83/Steam_icon_logo.svg" height="30" width="40" /></a>
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
