@@ -44,14 +44,7 @@
   <img src="https://img.shields.io/badge/PCB_Design-1B5E20?style=for-the-badge&logo=kicad&logoColor=white" alt="PCB Design" />
 </p>
 
-<h3 align="center">GitHub İstatistikleri</h3>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=burak20007878&show_icons=true&theme=tokyonight&hide_border=true&hide_rank=true&locale=tr" height="165" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=burak20007878&layout=compact&theme=tokyonight&hide_border=true&hide=html&locale=tr" height="165" alt="Top Languages" />
-</p>
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=burak20007878&theme=tokyonight&hide_border=true&locale=tr" alt="GitHub Streak" />
-</p>
+<br />
 
 <p align="center">
   <a href="https://twitter.com/burak20007878" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Twitter-@burak20007878-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
